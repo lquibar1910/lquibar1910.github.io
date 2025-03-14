@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>Frontend y Backend</title>
+<style>  h2 {
+            color: rgb(0, 0, 0);
+        } 
+        body { 
+            background-color: white;
+        } 
+        p {
+           color: rgb(150, 0, 300);
+          }</style>
+</head>
+<body>
+
+<h1>Información Básica</h1>
+<p>Frontend y Backend, El front end es aquello que ven los usuarios e incluye elementos visuales, como botones, casillas de verificación, gráficos y mensajes de texto. Permite a los usuarios interactuar con la aplicación. El back-end son los datos y la infraestructura que permiten que la aplicación funcione.
+</p>
+<ul>
+       <li>Es la parte del desarrollo web que se encarga de que toda la lógica de una página web funcione</li> 
+       <li>Se trata del conjunto de acciones que pasan en una web</li> 
+       <li>Datos y la infraestructura que permiten que la aplicación funcione.</li> 
+   </ul> 
+   <img src="https://media.licdn.com/dms/image/v2/D4E12AQHqnAaXDrB8XQ/article-cover_image-shrink_720_1280/article-cover_image shrink_720_1280/0/1714499491055?e=2147483647&v=beta&t=WJvlrJV4jA4_m1rjTE2vUJ8Zn4p8-bTCIlBjegxLcKI" alt="Rabbit with lop ears in barn" width="203">
+  
+   <h2>¿Cuál es la diferencia entre el front end y back end en el desarrollo de aplicaciones?<h2/>
+   <p>Tanto el front end como el back end son aspectos críticos de cualquier aplicación. El front end es aquello que ven los usuarios e incluye elementos visuales, como botones, casillas de verificación, gráficos y mensajes de texto. Permite a los usuarios interactuar con la aplicación. El back-end son los datos y la infraestructura que permiten que la aplicación funcione. Almacena y procesa los datos de las aplicaciones para los usuarios.<p/> 
+   
+</body>
+</html>
